@@ -1,0 +1,5 @@
+npm create vite@latest myReactApp -- --template react
+cd myReactApp
+npm install
+npm run dev
+npm run deploy
